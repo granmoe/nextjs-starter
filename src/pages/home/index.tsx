@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import styled from 'styled-components'
 
 export default function Home() {
   return (
@@ -8,9 +9,17 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>blah</h1>
-      </main>
+      <Main>
+        <div>
+          <h1>Let&apos;s write a component 🤩</h1>
+        </div>
+      </Main>
     </div>
   )
 }
+
+const Main = styled.main`
+  margin: 32px 16px;
+  display: flex;
+  justify-content: center;
+`
