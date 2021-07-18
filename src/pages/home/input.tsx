@@ -7,6 +7,3 @@ export default function Input() {
 const StyledInput = styled.input`
   border: 2px solid blue;
 `
-
-const test = 123
-// aasdf
