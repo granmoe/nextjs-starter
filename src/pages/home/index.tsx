@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import styled from 'styled-components'
-import Input from './input'
 
 export default function Home() {
   return (
