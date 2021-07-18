@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Next.js Starter</title>
+        <title>Stripe Code Exercise</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
