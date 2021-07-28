@@ -9,7 +9,7 @@
     "lint": "next lint",
     "prepare": "husky install",
     "test": "jest",
-    "dev-node": "npx ts-node-dev --respawn --transpile-only test.ts"
+    "dev-node": "npx ts-node-dev --respawn --transpile-only random-script.ts"
   },
   "prettier": {
     "semi": false,
