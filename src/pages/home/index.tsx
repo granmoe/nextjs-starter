@@ -11,7 +11,7 @@ export default function Home() {
 
       <Main>
         <div>
-          <h1>Let&apos;s write a component 🤩</h1>
+          <h1>Let&apos;s build something 🤩</h1>
         </div>
       </Main>
     </div>
